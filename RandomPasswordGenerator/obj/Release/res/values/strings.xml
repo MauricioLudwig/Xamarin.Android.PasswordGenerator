@@ -1,0 +1,4 @@
+<resources><!-- Application name --><string name="application_name">Password Generator</string><!-- Save dialog --><string name="save_title">Application name</string><string name="save_subtitle">You can leave it blank or add a name later if you wish.</string><!-- About dialog --><string name="about_title">About</string><string name="about_text">Developed by Damien and Andreas.
+    \n\nDirect any feedback or queries to raindrop\@gmail.com.
+    \n\nIf you enjoy using the app please consider leaving a review.
+    \n\nThank you!</string><!-- Change Log dialog --><string name="change_log_title">Change Log</string><string name="cl_current_version_title">Current version</string><string name="cl_current_version_text">1.0</string><string name="change_log_history_title">History</string><string name="change_log_history_text">1.0 - Initital release.</string></resources>
